@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- A page line, untouched. -->
+    <path
+        android:pathData="M30,36 L80,36"
+        android:strokeColor="#F7F2E4"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+
+    <!-- The highlighter stroke. -->
+    <path
+        android:pathData="M24,49 L84,49 L84,61 L24,61 Z"
+        android:fillColor="#DFFF00" />
+
+    <!-- Text showing through the ink. -->
+    <path
+        android:pathData="M31,55 L77,55"
+        android:strokeColor="#F7F2E4"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+
+    <!-- Another line, cut short by a pink full stop. -->
+    <path
+        android:pathData="M30,73 L66,73"
+        android:strokeColor="#F7F2E4"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M76,73m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"
+        android:fillColor="#FF4F8F" />
+</vector>

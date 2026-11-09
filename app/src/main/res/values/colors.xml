@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="inktrail_paper">#F2EDE0</color>
+    <color name="inktrail_ink">#151410</color>
+    <color name="inktrail_paper_dark">#12110F</color>
+</resources>
